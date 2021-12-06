@@ -10,3 +10,8 @@
 .container {
    display: flex;
 }
+
+.rightSide {
+   flex: 4;
+   background-color: darkcyan;
+}
